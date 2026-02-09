@@ -48,5 +48,6 @@ Git, GitHub, REST APIs, Cloud Basics
 ---
 
 ## 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/sapan-gandhi-65b15b311
 📧 Email: sapgandhi811@gmail.com  
 📍 Vadodara, India
