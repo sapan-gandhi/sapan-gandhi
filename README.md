@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Sapan Gandhi 👋
 
-<!--
-**sapan-gandhi/sapan-gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Full Stack Developer  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🚀 Passionate about building real-world scalable applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- Full-stack web developer with problem-solving skills
+- Experience in building responsive web applications
+- Basic knowledge of AI/ML model development
+- Practicing Data Structures & Algorithms in C++
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+C++, JavaScript, Python  
+
+**Frontend:**  
+HTML, CSS, JavaScript, React  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB, MySQL  
+
+**Tools:**  
+Git, GitHub, REST APIs, Cloud Basics  
+
+---
+
+## 🚀 Projects
+-  Personal Expense Tracker  
+- Job Recommendation Website with Skills Matching  
+- Full-Stack Weather App 
+- Portfolio Website  
+
+---
+
+## 📚 Currently Learning
+- Advanced Full Stack Development
+- Machine Learning Projects
+- Cloud Deployment
+
+---
+
+## 📫 Connect With Me
+📧 Email: sapgandhi811@gmail.com  
+📍 Vadodara, India
