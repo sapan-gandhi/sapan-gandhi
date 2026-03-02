@@ -10,13 +10,13 @@
 - Full-stack web developer with problem-solving skills
 - Experience in building responsive web applications
 - Basic knowledge of AI/ML model development
-- Practicing Data Structures & Algorithms in C++
+- Practicing Data Structures & Algorithms in Java
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:**  
-C++, JavaScript, Python  
+C++, JavaScript, Python, Java
 
 **Frontend:**  
 HTML, CSS, JavaScript, React  
