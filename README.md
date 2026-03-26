@@ -48,16 +48,24 @@ class SapanGandhi:
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
 ### Frontend Developer Intern — 1Stop.ai
-`Jul 2025 – Sep 2025` · Vadodara, India
+📅 `Jul 2025 – Sep 2025` &nbsp;|&nbsp; 📍 Vadodara, India &nbsp;|&nbsp; ⏱️ 3 Months
 
-- 🔨 Built responsive web applications using **React** and **Tailwind CSS**
-- 📊 Developed full projects including an **expense tracker** and **portfolio website**
-- 🚀 Improved UI/UX across multiple product interfaces
+> 1Stop.ai is a tech company building AI-powered products and platforms.
 
----
+**What I worked on:**
+- 🔨 Built and shipped **responsive web applications** using **React.js** and **Tailwind CSS**
+- 📊 Developed a full **Personal Expense Tracker** — from UI design to data handling
+- 🌐 Built and deployed a **Portfolio Website** with modern frontend practices
+- ♻️ Improved existing UI components for better **performance and user experience**
+- 🤝 Worked in a **team environment** following real-world development workflows
+- 📦 Used **Git & GitHub** for version control and collaborative code management
+
+**Skills gained:**
+`React.js` `Tailwind CSS` `Component Architecture` `Responsive Design` `Git Workflow` `UI/UX Thinking` `Real-world Deployment`
+
 
 ## 🚀 Featured Projects
 
