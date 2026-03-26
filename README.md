@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 **Languages:**  
-C++, JavaScript, Python, Java
+Java, JavaScript, Python
 
 **Frontend:**  
 HTML, CSS, JavaScript, React  
