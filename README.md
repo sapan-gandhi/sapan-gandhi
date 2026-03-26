@@ -38,13 +38,24 @@ class SapanGandhi:
         return [
             "Building AI-powered full-stack web applications",
             "Strengthening ML skills — scikit-learn, NLP, feature engineering",
-            "Practicing DSA in Java",
+            "Exploring AWS Cloud & DevOps fundamentals",
             "Open to internships, entry-level roles & freelance"
         ]
 
     def fun_fact(self):
         return "I turn complex problems into clean, scalable products 🚀"
 ```
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern — 1Stop.ai
+`Jul 2025 – Sep 2025` · Vadodara, India
+
+- 🔨 Built responsive web applications using **React** and **Tailwind CSS**
+- 📊 Developed full projects including an **expense tracker** and **portfolio website**
+- 🚀 Improved UI/UX across multiple product interfaces
 
 ---
 
@@ -82,27 +93,24 @@ class SapanGandhi:
 
 - 👤 Skill-based candidate profiling
 - 🤖 ML-powered job-match scoring & ranking
-- 📊 Ranked recommendation feed
 - 🛠️ **Tech:** `Python` `React` `Node.js` `ML Algorithms` `MongoDB`
 
 ---
 
 ### 🌐 Personal Portfolio — Full Stack + AI Chatbot
-> Premium dark-theme portfolio with AI assistant, contact form & resume download
+> Premium dark-theme portfolio with Claude AI assistant & real email sending
 
 [![Live](https://img.shields.io/badge/Live%20Site-Visit-22d3ee?style=for-the-badge)](https://my-portfolio-pi-seven-46.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sapan-gandhi/my-portfolio)
 
 - 🤖 Claude AI-powered chatbot for recruiter Q&A
 - 📬 Real email sending via Resend API
-- ⚡ React + Vite frontend on Vercel
 - 🛠️ **Tech:** `React` `Node.js` `Claude AI` `Resend` `Vercel` `Render`
 
 ---
 
 ### 🛡️ ShieldWage
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sapan-gandhi/shieldwage)
-
 - 🛠️ **Tech:** `HTML` `CSS` `JavaScript`
 
 ---
@@ -128,12 +136,13 @@ class SapanGandhi:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / ML
+### AI / ML & Data
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Tools & DevOps
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -158,19 +167,22 @@ class SapanGandhi:
 
 ## 🏆 Certifications
 
-| Certification | Platform | Year |
-|--------------|----------|------|
-| 🏅 Software Engineering Job Simulation | Forage | Mar 2026 |
-| 🤖 Generative AI Certification | LinkedIn Learning | 2024 |
-| 🗄️ SQL Bootcamp | LetsUpgrade | 2024 |
+| Badge | Certification | Issuer | Date |
+|-------|--------------|--------|------|
+| 🏦 | Software Engineering Job Simulation | JPMorgan Chase · Forage | Mar 2026 |
+| ☁️ | AWS Academy Cloud Foundations | Amazon Web Services (AWS) | Sep 2025 |
+| 📊 | Data Analyst Certification | OneRoadmap | Jun 2025 |
+| 🟨 | JavaScript Certification | OneRoadmap | Jun 2025 |
+| 🤖 | What is Generative AI | LinkedIn Learning | Aug 2024 |
+| 🗄️ | SQL Bootcamp | LetsUpgrade | Aug 2024 |
 
 ---
 
-## 💼 Experience
+## 🥇 Achievements
 
-**Frontend Developer Intern** @ **1Stop.ai** *(Jul 2025 – Sep 2025)*
-- Built responsive web applications using React and Tailwind CSS
-- Developed expense tracker and portfolio website
+- 🏆 **Vadodara Hackathon 6.0** — Participated & built under pressure
+- 💡 **LeetCode Problem Solving** — Consistent DSA practice in Java
+- ☁️ **AWS Cloud Foundations Badge** — Earned from Amazon Web Services
 
 ---
 
@@ -192,6 +204,8 @@ class SapanGandhi:
 <div align="center">
 
 **⭐ If you like my work, consider starring my repos!**
+
+*Open to internships, entry-level roles & freelance opportunities*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
